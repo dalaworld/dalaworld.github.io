@@ -1,53 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GinzaAle.com]]></title><description><![CDATA[Web系テクノロジーや IT関連ビジネスなどについてのメモ]]></description><link>https://ginzaale.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Oct 2018 14:21:03 GMT</lastBuildDate><item><title><![CDATA[テスト投稿]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://ginzaale.com/hello-world/</link><guid isPermaLink="false">https://ginzaale.com/hello-world/</guid><pubDate>Sat, 20 Oct 2018 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; hoge
-  fuga &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt;
-&lt;span class=&quot;token class-name&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;&quot;
-        src=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg&quot;
-        srcset=&quot;/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-e8976.jpg 148w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-63df2.jpg 295w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg 590w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-85e3d.jpg 885w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-d1924.jpg 1180w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-9452e.jpg 1770w,
-/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GinzaAle.com]]></title><description><![CDATA[Web系テクノロジーや IT関連ビジネスなどについてのメモ]]></description><link>https://ginzaale.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Oct 2018 10:16:37 GMT</lastBuildDate><item><title><![CDATA[Googleも利用する目標管理フレームワーク「OKR」（Objects Key Results）とは？]]></title><description><![CDATA[OKR とは？ OKR とは、Objects Key Restls の略で、目標（Objects）と主要な結果（Key Results）を定期的（四半期ごとなど）に設定し、目標達成に向けて取り組むためのフレームワークである。 Google をはじめ、Dropbox…]]></description><link>https://ginzaale.com/about-okr/</link><guid isPermaLink="false">https://ginzaale.com/about-okr/</guid><pubDate>Sun, 28 Oct 2018 20:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;OKR とは？&lt;/h2&gt;
+&lt;p&gt;OKR とは、Objects Key Restls の略で、目標（Objects）と主要な結果（Key Results）を定期的（四半期ごとなど）に設定し、目標達成に向けて取り組むためのフレームワークである。&lt;/p&gt;
+&lt;p&gt;Google をはじめ、Dropbox や Twitter、 Slack などの シリコンバレーの企業や、BMW、サムスンなどの大企業にも導入されている。&lt;/p&gt;
+&lt;p&gt;もともとはインテルのアンディ・グローブ氏が考案し、組織マネジメントで使用していた。&lt;/p&gt;
+&lt;p&gt;Google は創業まもない 1999年に、ジョン・ドーアによってこの OKR の概念が取り入れられ、現在に至るまでこのフレームワークを使用しているとのこと。
+ただし、現在までずっと同じ方法を用いているのではなく、毎年変更が加わっているという。&lt;/p&gt;
+&lt;h2&gt;OKR を知るきっかけ&lt;/h2&gt;
+&lt;p&gt;書店で以下の本と出会い OKR という目標管理フレームワークを知った。&lt;/p&gt;
+&lt;p&gt;この本は、Google に OKR の概念を導入した ジョン・ドーア氏が書いた本で、表示をめくると Google の創業者ラリー・ペイジ氏の序文からはじまり、二人の写真も載っている。&lt;/p&gt;
+&lt;div class=&quot;amazlet-box&quot; style=&quot;margin-bottom:0px;text-decoration:none&quot;&gt;&lt;div class=&quot;amazlet-image&quot; style=&quot;float:left;margin:0px 12px 1px 0px;&quot;&gt;&lt;a href=&quot;http://www.amazon.co.jp/exec/obidos/ASIN/4532322405/ginzaale-22/ref=nosim/&quot; name=&quot;amazletlink&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://images-fe.ssl-images-amazon.com/images/I/51TieCcIqHL._SL160_.jpg&quot; alt=&quot;Measure What Matters &amp;#x4F1D;&amp;#x8AAC;&amp;#x306E;&amp;#x30D9;&amp;#x30F3;&amp;#x30C1;&amp;#x30E3;&amp;#x30FC;&amp;#x6295;&amp;#x8CC7;&amp;#x5BB6;&amp;#x304C;Google&amp;#x306B;&amp;#x6559;&amp;#x3048;&amp;#x305F;&amp;#x6210;&amp;#x529F;&amp;#x624B;&amp;#x6CD5; OKR (&amp;#x30E1;&amp;#x30B8;&amp;#x30E3;&amp;#x30FC;&amp;#x30FB;&amp;#x30DB;&amp;#x30EF;&amp;#x30C3;&amp;#x30C8;&amp;#x30FB;&amp;#x30DE;&amp;#x30BF;&amp;#x30FC;&amp;#x30BA;)&quot; style=&quot;border: none;&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;amazlet-info&quot; style=&quot;line-height:120%; margin-bottom: 10px&quot;&gt;&lt;div class=&quot;amazlet-name&quot; style=&quot;margin-bottom:10px;line-height:120%&quot;&gt;&lt;a href=&quot;http://www.amazon.co.jp/exec/obidos/ASIN/4532322405/ginzaale-22/ref=nosim/&quot; name=&quot;amazletlink&quot; target=&quot;_blank&quot;&gt;Measure What Matters &amp;#x4F1D;&amp;#x8AAC;&amp;#x306E;&amp;#x30D9;&amp;#x30F3;&amp;#x30C1;&amp;#x30E3;&amp;#x30FC;&amp;#x6295;&amp;#x8CC7;&amp;#x5BB6;&amp;#x304C;Google&amp;#x306B;&amp;#x6559;&amp;#x3048;&amp;#x305F;&amp;#x6210;&amp;#x529F;&amp;#x624B;&amp;#x6CD5; OKR (&amp;#x30E1;&amp;#x30B8;&amp;#x30E3;&amp;#x30FC;&amp;#x30FB;&amp;#x30DB;&amp;#x30EF;&amp;#x30C3;&amp;#x30C8;&amp;#x30FB;&amp;#x30DE;&amp;#x30BF;&amp;#x30FC;&amp;#x30BA;)&lt;/a&gt;&lt;div class=&quot;amazlet-powered-date&quot; style=&quot;font-size:80%;margin-top:5px;line-height:120%&quot;&gt;posted with &lt;a href=&quot;http://www.amazlet.com/&quot; title=&quot;amazlet&quot; target=&quot;_blank&quot;&gt;amazlet&lt;/a&gt; at 18.10.28&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;amazlet-detail&quot;&gt;&amp;#x30B8;&amp;#x30E7;&amp;#x30F3;&amp;#x30FB;&amp;#x30C9;&amp;#x30FC;&amp;#x30A2; &lt;br&gt;&amp;#x65E5;&amp;#x672C;&amp;#x7D4C;&amp;#x6E08;&amp;#x65B0;&amp;#x805E;&amp;#x51FA;&amp;#x7248;&amp;#x793E; &lt;br&gt;&amp;#x58F2;&amp;#x308A;&amp;#x4E0A;&amp;#x3052;&amp;#x30E9;&amp;#x30F3;&amp;#x30AD;&amp;#x30F3;&amp;#x30B0;: 1,471&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;amazlet-sub-info&quot; style=&quot;float: left;&quot;&gt;&lt;div class=&quot;amazlet-link&quot; style=&quot;margin-top: 5px&quot;&gt;&lt;a href=&quot;http://www.amazon.co.jp/exec/obidos/ASIN/4532322405/ginzaale-22/ref=nosim/&quot; name=&quot;amazletlink&quot; target=&quot;_blank&quot;&gt;Amazon.co.jp&amp;#x3067;&amp;#x8A73;&amp;#x7D30;&amp;#x3092;&amp;#x898B;&amp;#x308B;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;amazlet-footer&quot; style=&quot;clear: left&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;OKR の2つのカテゴリー&lt;/h2&gt;
+&lt;p&gt;Google では OKR を 2つのカテゴリーに分けているという。&lt;/p&gt;
+&lt;h3&gt;コミットする目標&lt;/h3&gt;
+&lt;p&gt;設定した期間内に完全に達成しなければならない目標。&lt;/p&gt;
+&lt;h3&gt;野心的目標&lt;/h3&gt;
+&lt;p&gt;壮大なビジョンや高いリスク、未来志向の発想を反映する達成困難な目標。&lt;/p&gt;
+&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;p&gt;OKR は非常にシンプルな目標管理フレームワークである。
+人数が多い組織で用いることはもちろん、プライベートな目標管理にも使えるフレームワークである。&lt;/p&gt;
+&lt;p&gt;ただし、シンプルがゆえに使い方を間違えると意味のない宣言になってしまい効果がないので、文末に載っている参考資料①「グーグルのOKR実践マニュアル」を参考に OKR を設定したい。&lt;/p&gt;
+&lt;p&gt;詳しくは、
+&lt;a href=&quot;http://www.amazon.co.jp/exec/obidos/ASIN/4532322405/ginzaale-22/ref=nosim/&quot; name=&quot;amazletlink&quot; target=&quot;_blank&quot;&gt;Measure What Matters 伝説のベンチャー投資家がGoogleに教えた成功手法 OKR (メジャー・ホワット・マターズ)&lt;/a&gt;
+や、OKR を説明した著者のサイト&lt;a href=&quot;https://www.whatmatters.com/&quot; target=&quot;_blank&quot;&gt;WHAT MATTERS&lt;/a&gt;で知識を深めたい。&lt;/p&gt;</content:encoded></item></channel></rss>
